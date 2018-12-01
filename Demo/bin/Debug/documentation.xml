@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Demo</name>
+    </assembly>
+    <members>
+        <member name="M:Demo.Distance.KilometresToMiles(System.Double)">
+            <summary>
+            Calculate Kilometres to miles
+            </summary>
+            <param name="kilometres">
+            Input distance in kilometres
+            </param>
+            <exception cref="T:System.ArgumentException">
+            If <paramref name="kilometres"/> is negative
+            </exception>
+            <returns>Returns the distance in miles</returns>
+        </member>
+        <member name="M:Demo.Distance.MilesToKilometres(System.Double)">
+            <summary>
+            Calculate miles to kilometres
+            </summary>
+            <param name="miles">
+            Input distance in miles
+            </param>
+            <exception cref="T:System.ArgumentException">
+            If <paramref name="miles"/> is negative
+            </exception>
+            <returns>Returns the distance in kilometres</returns>
+        </member>
+    </members>
+</doc>
