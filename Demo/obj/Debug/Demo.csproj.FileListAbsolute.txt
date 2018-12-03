@@ -1,8 +1,0 @@
-C:\Users\us\Desktop\C#\09. XMLDocumentation. Tuple. Validation model\Demo\Demo\bin\Debug\Demo.exe.config
-C:\Users\us\Desktop\C#\09. XMLDocumentation. Tuple. Validation model\Demo\Demo\bin\Debug\Demo.exe
-C:\Users\us\Desktop\C#\09. XMLDocumentation. Tuple. Validation model\Demo\Demo\bin\Debug\Demo.pdb
-C:\Users\us\Desktop\C#\09. XMLDocumentation. Tuple. Validation model\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
-C:\Users\us\Desktop\C#\09. XMLDocumentation. Tuple. Validation model\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
-C:\Users\us\Desktop\C#\09. XMLDocumentation. Tuple. Validation model\Demo\Demo\obj\Debug\Demo.exe
-C:\Users\us\Desktop\C#\09. XMLDocumentation. Tuple. Validation model\Demo\Demo\obj\Debug\Demo.pdb
-C:\Users\us\Desktop\C#\09. XMLDocumentation. Tuple. Validation model\Demo\Demo\bin\Debug\documentation.xml
